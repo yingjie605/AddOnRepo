@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+	<addon id="plugin.video.genesis" name="genesis" version="3.6.1" provider-name="VidOnMe">
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">genesis video plugin</summary>
+			<summary lang="zh">genesis 视频高清版</summary>
+			<description lang="en">Genesis video plugin for test</description>
+			<description lang="zh">Genesis 测试视频插件</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+	<addon id="plugin.video.movie25" name="movie25" version="3.6.1" provider-name="VidOnMe">
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">movie25 video plugin</summary>
+			<summary lang="zh">movie25 视频高清版</summary>
+			<description lang="en">movie25 video plugin for test</description>
+			<description lang="zh">movie25 测试视频插件</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+</addons>
