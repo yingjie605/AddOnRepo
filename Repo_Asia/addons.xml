@@ -9,6 +9,8 @@
 			<summary lang="zh">genesis 视频高清版</summary>
 			<description lang="en">Genesis video plugin for test</description>
 			<description lang="zh">Genesis 测试视频插件</description>
+			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+			<source>https://github.com/yingjie605/AddOnRepo/tree/master/Repo_Asia/repo</source>
 			<platform>all</platform>
 		</extension>
 	</addon>
@@ -21,6 +23,8 @@
 			<summary lang="zh">movie25 视频高清版</summary>
 			<description lang="en">movie25 video plugin for test</description>
 			<description lang="zh">movie25 测试视频插件</description>
+			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+			<source>https://github.com/yingjie605/AddOnRepo/tree/master/Repo_Asia/repo</source>
 			<platform>all</platform>
 		</extension>
 	</addon>
