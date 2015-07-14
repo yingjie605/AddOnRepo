@@ -14,7 +14,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.video.movie25" name="movie25" version="3.6.1" provider-name="VidOnMe">
+	<addon id="plugin.video.movie25" name="movie25" version="1.4.0" provider-name="VidOnMe">
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>video</provides>
 		</extension>
