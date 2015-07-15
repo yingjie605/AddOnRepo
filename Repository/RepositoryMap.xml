@@ -1,0 +1,4 @@
+<RepositoryMap>
+  <Repo CountryCode="CHN" RepoID="http://raw.github.com/yingjie605/AddOnRepo/master/Repository/Chinese.zip"/>
+  <Repo CountryCode="USA" RepoID="http://raw.github.com/yingjie605/AddOnRepo/master/Repository/USA.zip"/>
+</RepositoryMap>
