@@ -28,4 +28,19 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
+	<addon id="script.module.simplejson" name="simplejson" version="3.3.0" provider-name="VidOnMe">
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>script</provides>
+		</extension>
+	</addon>
+	<addon id="script.module.urlresolver" name="urlresolver" version="2.7.0" provider-name="VidOnMe">
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>script</provides>
+		</extension>
+	</addon>
+	<addon id="script.module.t0mm0.common" name="t0mm0.common" version="2.1.0" provider-name="VidOnMe">
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>script</provides>
+		</extension>
+	</addon>
 </addons>
